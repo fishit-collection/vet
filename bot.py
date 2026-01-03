@@ -1315,14 +1315,14 @@ def create_autopost_embed() -> discord.Embed:
     
      # CHECK WEBHOOK SECTION
     embed.add_field(
-        name=f":webhook: ၊| 𝖢𝗁𝖾𝖼𝗄 𝖶𝖾𝖻𝗁𝗈𝗈𝗄",
+        name=f"<a:webhook:1456805145026494567> ၊| 𝖢𝗁𝖾𝖼𝗄 𝖶𝖾𝖻𝗁𝗈𝗈𝗄",
         value=f"╰┈{EMOJIS.get('ARROW_EMOJI', '➡️')} <#1452672717475151995>",
         inline=False
     )
 
       # PREVIEW  SECTION
     embed.add_field(
-        name=f":preview: ၊| 𝖯𝗋𝖾𝗏𝗂𝖾𝗐",
+        name=f"<a:preview:1456863036190101525> ၊| 𝖯𝗋𝖾𝗏𝗂𝖾𝗐",
         value=f"╰┈{EMOJIS.get('ARROW_EMOJI', '➡️')} <#1456860477928898754>",
         inline=False
     )
