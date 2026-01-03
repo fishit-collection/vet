@@ -1,5 +1,15 @@
+# Core Discord
 discord.py==2.3.2
 aiohttp==3.9.1
-python-dotenv==1.0.0
+
+# Web Server & Utilities
 flask==2.3.3
 gunicorn==21.2.0
+requests==2.31.0
+
+# Environment & Time
+python-dotenv==1.0.0
+pytz==2023.3.post1
+
+# Development (optional)
+colorama==0.4.6
