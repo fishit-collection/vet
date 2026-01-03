@@ -1,0 +1,29 @@
+{
+  "1452588094334435465": {
+    "1073527513671798845": [
+      {
+        "token": "MTA3MzUyNzUxMzY3MTc5ODg0NQ.GovyZe.8jkPXWlaeiO_koROtuWeNbyrpCkE2MzxT-_OW8",
+        "name": "y",
+        "channels": [
+          "1452672268009340979"
+        ],
+        "message": "## PESAN TES\nTES\nTES\nTES\nTEMSTEM\nTES",
+        "delay": 30,
+        "is_running": false,
+        "setup_by": 1073527513671798845,
+        "setup_by_name": "vechnost.id",
+        "user_info": {
+          "id": "1073527513671798845",
+          "username": "vechnost.id",
+          "global_name": "! VECHNOST",
+          "discriminator": "0",
+          "avatar": "461c3b0b4e2f254a7dec80c34b65e99a",
+          "bot": false
+        },
+        "guild_id": "1452588094334435465",
+        "last_updated": "2026-01-03 09:28:03",
+        "total_sent": 13
+      }
+    ]
+  }
+}

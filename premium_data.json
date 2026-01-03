@@ -1,0 +1,32 @@
+{
+  "premium_codes": {
+    "VECHNOST-9VVH1EDXWRR0TVU": {
+      "code": "VECHNOST-9VVH1EDXWRR0TVU",
+      "duration_days": 30,
+      "created_at": "2026-01-03 06:15:39",
+      "expires_at": "2026-02-02 06:15:39",
+      "created_by": 1073527513671798845,
+      "used_by": 1073527513671798845,
+      "used_at": "2026-01-03 06:16:05",
+      "status": "used"
+    },
+    "VECHNOST-30S3DG96REL179C": {
+      "code": "VECHNOST-30S3DG96REL179C",
+      "duration_days": 7,
+      "created_at": "2026-01-03 08:45:41",
+      "expires_at": "2026-01-10 08:45:41",
+      "created_by": 1073527513671798845,
+      "used_by": null,
+      "used_at": null,
+      "status": "active"
+    }
+  },
+  "user_subscriptions": {
+    "1073527513671798845": {
+      "expires_at": "2026-02-02 06:15:39",
+      "plan": "30d",
+      "bots_allowed": 5,
+      "used_bots": 0
+    }
+  }
+}
